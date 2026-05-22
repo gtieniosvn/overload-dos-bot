@@ -1,4 +1,4 @@
-# ⚡ Overload DoS Bot - Telegram Edition
+# ⚡ OverGTien DoS Bot - Telegram Edition
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -54,9 +54,14 @@ $env:ADMIN_ID="YOUR_TELEGRAM_ID"
 
 Chạy bot
 
+### Cài đặt nhanh:
 ```bash
-python overload_bot.py
-```
+git clone https://github.com/YOUR_USERNAME/OverGTien.git
+cd OverGTien
+pip install -r requirements.txt
+export BOT_TOKEN="your_token"
+export ADMIN_ID="your_id"
+python overgtien_bot.py
 
 📖 Cách sử dụng
 
