@@ -125,7 +125,7 @@ requests >= 2.28.1
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/OverGTien.git
+git clone https://github.com/gtieniosvn/overload-dos-bot.git
 
 # Di chuyển vào thư mục
 cd OverGTien
@@ -141,7 +141,7 @@ Cách 2: Cài đặt thủ công
 
 ```bash
 # Tải code
-wget https://github.com/YOUR_USERNAME/OverGTien/archive/main.zip
+wget https://github.com/gtieniosvn/overload-dos-bot/archive/main.zip
 unzip main.zip
 cd OverGTien-main
 
@@ -170,7 +170,7 @@ pkg install python git
 pip install python-telegram-bot aiohttp colorama PySocks scapy requests
 
 # Clone và chạy
-git clone https://github.com/YOUR_USERNAME/OverGTien.git
+git clone https://github.com/gtieniosvn/overload-dos-bot.git
 cd OverGTien
 python overgtien_bot.py
 ```
